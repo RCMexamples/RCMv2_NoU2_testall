@@ -24,5 +24,3 @@ https://github.com/RCMgames/RCMv2/discussions/20
 * [micro-ROS](https://micro.ros.org/) as optional method of communication
 * [ESP32_easy_wifi_data](https://github.com/joshua-8/ESP32_easy_wifi_data) as optional method of communication
 
-
-SOMETHING IS BORKED WITH M5?
